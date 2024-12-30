@@ -1,0 +1,22 @@
+
+/* Product Details Section */
+
+  
+  .product-details-section h1 {
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 10px;
+  }
+  
+  .project-info p {
+    font-size: 10px;
+    color: #000;
+  }
+  
+  .project-description {
+    font-size: 10px;
+    color: #e3f6fc;
+    margin-top: 5px;
+  }
+  
